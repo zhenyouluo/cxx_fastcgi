@@ -1,0 +1,4 @@
+WARN: 06-29 17:24:44 [test.c:42][test01] You got something wrong here [value:3]
+ERROR: 06-29 17:24:44 [test.c:44][test01] You got something wrong here [value:4]
+WARN: 06-29 17:24:44 [test.c:42][test01] You got something wrong here [value:8]
+ERROR: 06-29 17:24:44 [test.c:44][test01] You got something wrong here [value:9]

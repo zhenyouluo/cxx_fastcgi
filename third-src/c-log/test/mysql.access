@@ -1,0 +1,7 @@
+DEBUG: 06-29 17:24:44 [test.c:11][common_test] testing write log befor log_init: haha
+NOTICE: 06-29 17:24:44 [test.c:36][test01] You got something wrong here [value:0] [xx:10]
+DEBUG: 06-29 17:24:44 [test.c:38][test01] You got something wrong here [value:1]
+TRACE: 06-29 17:24:44 [test.c:40][test01] You got something wrong here [value:2]
+NOTICE: 06-29 17:24:44 [test.c:36][test01] You got something wrong here [value:5] [xx:10]
+DEBUG: 06-29 17:24:44 [test.c:38][test01] You got something wrong here [value:6]
+TRACE: 06-29 17:24:44 [test.c:40][test01] You got something wrong here [value:7]
