@@ -18,8 +18,8 @@ cd $CUR_PATH/common/base
 make
 cd $CUR_PATH/common/cwf
 make
-cd $CUR_PATHi/service/web-frame
+cd $CUR_PATH/service/web-frame
 make clean && make
-cd $CUR_PATHi/service/web-plugins
+cd $CUR_PATH/service/web-plugins
 make clean && make
 
